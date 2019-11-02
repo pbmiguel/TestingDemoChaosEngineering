@@ -1,3 +1,7 @@
+# Testing The Resiliency Of An Web App
+> This is a demo exploring the [Simmy](https://github.com/Polly-Contrib/Simmy) testing-tool capabilities.
+
+
 # Simmy sample app
 
 [Simmy](https://github.com/Polly-Contrib/Simmy) is a chaos-engineering and fault-injection tool, integrating with the Polly resilience project for .NET. Simmy allows you to introduce a chaos-injection policy or policies at any location where you execute code through Polly.
